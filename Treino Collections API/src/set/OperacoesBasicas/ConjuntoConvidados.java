@@ -70,4 +70,6 @@ public class ConjuntoConvidados {
         System.out.println("Convidados no conjunto após a remoção:");
         conjuntoConvidados.exibirConvidados();
     }
+}
+
 
