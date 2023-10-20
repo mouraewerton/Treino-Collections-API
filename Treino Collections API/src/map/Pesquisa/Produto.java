@@ -13,14 +13,17 @@ public class Produto {
     }
 
     public String getNome() {
+
         return nome;
     }
 
     public double getPreco() {
+
         return preco;
     }
 
     public int getQuantidade() {
+
         return quantidade;
     }
 
